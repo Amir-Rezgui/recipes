@@ -1,0 +1,16 @@
+* {
+  background-color: bisque;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18;
+}
+
+h1 {
+  font-weight: 999;
+  color: red;
+}
+
+h3 {
+  font-weight: 999;
+
+  color: palevioletred;
+}
